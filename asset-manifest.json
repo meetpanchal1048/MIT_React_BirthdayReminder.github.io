@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MIT_React_BirthdayReminder/static/css/main.8bca40b5.css",
+    "main.js": "/MIT_React_BirthdayReminder/static/js/main.9c74ad43.js",
+    "index.html": "/MIT_React_BirthdayReminder/index.html",
+    "main.8bca40b5.css.map": "/MIT_React_BirthdayReminder/static/css/main.8bca40b5.css.map",
+    "main.9c74ad43.js.map": "/MIT_React_BirthdayReminder/static/js/main.9c74ad43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bca40b5.css",
+    "static/js/main.9c74ad43.js"
+  ]
+}
